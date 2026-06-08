@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/divakarans/setjson/internal/setter"
+	"github.com/divakarans/setjson/setter"
 )
 
 func main() {
